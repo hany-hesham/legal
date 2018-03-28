@@ -1,0 +1,21 @@
+{
+  "name": "abeautifulsite/jquery-minicolors",
+  "type": "component",
+  "description": "jQuery MiniColors Plugin",
+  "homepage": "http://www.abeautifulsite.net/",
+  "license": "MIT",
+  "extra": {
+    "component": {
+      "scripts": [
+        "jquery.minicolors.js"
+      ],
+      "files": [
+        "jquery.minicolors.js",
+        "jquery.minicolors.min.js",
+        "jquery.minicolors.css",
+        "jquery.minicolors.png"
+      ]
+    }
+  }
+}
+{"installed":{"client_id":"474021363081-6pphslr97or9tnr3qtpt9qki9u2b2hc4.apps.googleusercontent.com","project_id":"acoustic-realm-155712","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://accounts.google.com/o/oauth2/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"_saBD3fD5Qsf1pW-aXcyMip6","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}

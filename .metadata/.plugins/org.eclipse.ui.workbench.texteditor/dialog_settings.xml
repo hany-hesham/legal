@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="wholeword"/>
+		<item value="input.form-submit:hover" key="selection"/>
+		<list key="findhistory">
+			<item value="input.form-submit:hover"/>
+			<item value="input.form-submit:hover, input.form-submit:focus"/>
+			<item value="window.location.hash"/>
+			<item value="#quicktabs-arkivetaps=1"/>
+			<item value=".docs-arkiv .views-field-field-file-docs-archive-1 a"/>
+			<item value="cbox_"/>
+			<item value="RegExp"/>
+			<item value="replace"/>
+		</list>
+	</section>
+</section>
